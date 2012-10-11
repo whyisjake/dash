@@ -1,4 +1,13 @@
 <?php 
+/*
+Plugin Name: Parse.ly - Dash Widget
+Plugin URI: https://github.com/whyisjake/dash
+Description: This plugin makes it easy to add Dash Analytics to your site.
+Author: Jake Spurlock (jspurlock@oreilly.com)
+Version: 0.5
+Requires at least: 2.5
+Author URI: http://makezine.com
+License: GPL2
 
 /**
  * Pulls content from the Dash API.
