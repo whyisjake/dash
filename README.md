@@ -22,6 +22,6 @@ Diving In
 * $secret is the secret api key. This is not required unless you have this turned on in your account
 
 License
-=======
+-------
 
 See LICENSE.
